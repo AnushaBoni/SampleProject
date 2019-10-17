@@ -16,6 +16,7 @@ public class BaseClass {
 	@BeforeMethod
 	public void bm() {
 		System.out.println("am in bm");
+		
 	}
 	
 	@BeforeTest
